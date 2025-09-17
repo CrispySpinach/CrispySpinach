@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
+    <img src="https://static.itch.io/images/itchio-textless-white.svg" width="52" height="40" alt="itch logo"  />
   </a>
 </div>
 
