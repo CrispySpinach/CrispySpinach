@@ -24,11 +24,11 @@
   <td align="center" width="50%">
     
   ### 👨‍💻 My Profile
-    🎓 Informatics Student at Kalimantan Institute of Technology
+  🎓 **Informatics** Student at Kalimantan Institute of Technology
     
-    🌱 Active Learner always curious about technology update
+  🌱 **Active Learner** always curious about technology update
     
-    🚀 Motivation Learning something that i passionate about
+  🚀 **Motivation Learning** something that i passionate about
     
   </td>
   <td align="center" width="50%">
