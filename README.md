@@ -4,14 +4,16 @@
 
 ###
 
-<h1 align="center">Hi and Welcome, I'm CrispySpinach👋</h1>
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/IxFEoZ_X8FYAAAAd/silent-witch-happy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5F7&repeat=false&width=435&lines=Hello+and+welcome%2C+I'm+CrispySpinach%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 ###
