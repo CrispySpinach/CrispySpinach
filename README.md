@@ -28,7 +28,7 @@
     
   🌱 **Active Learner** always curious about technology update
     
-  🚀 **Motivation Learning** something that i passionate about
+  🚀 **Motivation** Learning something that i passionate about
     
   </td>
   <td align="center" width="50%">
