@@ -18,31 +18,33 @@
 
 ###
 
-<table>
-<tr>
-<td align="center" width="50%">
-  
-### 👨‍💻 My Profile
-  🎓 **Informatics Student** at Kalimantan Institute of Technology
-  
-  🌱 **Active Learner** always curious about technology update
-  
-  🚀 **Motivation** Learning something that i passionate about
-  
-</td>
-<td align="center" width="50%">
-  
-### 🎯 Focus Area
-
-  - **Game Development** (Unity)
+<div align="center">
+  <table>
+  <tr>
+  <td align="center" width="50%">
     
-  - **Web Development** (React, Tailwind CSS)
+  ### 👨‍💻 My Profile
+    🎓 Informatics Student at Kalimantan Institute of Technology
     
-  - **Mobile Development** (Flutter & Kotlin)
+    🌱 Active Learner always curious about technology update
     
-</td>
-</tr>
-</table>
+    🚀 Motivation Learning something that i passionate about
+    
+  </td>
+  <td align="center" width="50%">
+    
+  ### 🎯 Focus Area
+  
+    - Game Development (Unity)
+      
+    - Web Development (React, Tailwind CSS)
+      
+    - Mobile Development (Flutter & Kotlin)
+      
+  </td>
+  </tr>
+  </table>
+</div>
 
 ###
 
