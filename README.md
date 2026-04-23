@@ -29,11 +29,11 @@ Software Engineer and Informatics Student at Kalimantan Institute of Technology
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                22 hrs 55 mins        ###########--------------   43.32 %
-Kotlin              16 hrs 27 mins        ########-----------------   31.11 %
-C#                  2 hrs 33 mins         #------------------------   04.83 %
-C++                 1 hr 39 mins          #------------------------   03.13 %
-XML                 1 hr 27 mins          #------------------------   02.76 %
+Dart                22 hrs 55 mins        ###########--------------   42.68 %
+Kotlin              16 hrs 27 mins        ########-----------------   30.66 %
+C#                  2 hrs 33 mins         #------------------------   04.75 %
+Markdown            2 hrs 13 mins         #------------------------   04.13 %
+C++                 1 hr 39 mins          #------------------------   03.09 %
 ```
 
 <!--END_SECTION:waka-->
@@ -42,6 +42,14 @@ XML                 1 hr 27 mins          #------------------------   02.76 %
 
 ## Social
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-2d2d2d?style-for-the-badge&logo=itch.io&logoColor=8ce6ff)](https://crispyspinach.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ce6ff?style-for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMyZDJkMmQiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjlWMjIuMjdjMCAuOTU1Ljc5MiAxLjczIDEuNzcxIDEuNzNoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI1IDI0IDIyLjI3VjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://www.linkedin.com/in/syabani-nz)
-[![Email](https://img.shields.io/badge/Email-2d2d2d?style-for-the-badge&logo=gmail&logoColor=8ce6ff)](mailto:syabaninurzain@gmail.com)
+<div align="left">
+  <a href="https://crispyspinach.itch.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Itch.io-2d2d2d?style-for-the-badge&logo=itch.io&logoColor=8ce6ff">
+  </a>
+  <a href="https://www.linkedin.com/in/syabani-nz" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-8ce6ff?style-for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGZpbGw9IiMyZDJkMmQiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43MjlWMjIuMjdjMCAuOTU1Ljc5MiAxLjczIDEuNzcxIDEuNzNoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI1IDI0IDIyLjI3VjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn">
+  </a>
+  <a href="mailto:syabaninurzain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2d2d2d?style-for-the-badge&logo=gmail&logoColor=8ce6ff">
+  </a>
+</div>
