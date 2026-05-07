@@ -29,11 +29,11 @@ Software Engineer and Informatics Student at Kalimantan Institute of Technology
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                22 hrs 55 mins        #########----------------   36.95 %
-Kotlin              16 hrs 27 mins        #######------------------   26.54 %
-JavaScript          8 hrs 22 mins         ###----------------------   13.50 %
-C#                  2 hrs 33 mins         #------------------------   04.12 %
-Markdown            2 hrs 33 mins         #------------------------   04.11 %
+Dart                22 hrs 55 mins        #########----------------   36.75 %
+Kotlin              16 hrs 27 mins        #######------------------   26.39 %
+JavaScript          8 hrs 22 mins         ###----------------------   13.42 %
+C#                  2 hrs 53 mins         #------------------------   04.63 %
+Markdown            2 hrs 33 mins         #------------------------   04.09 %
 ```
 
 <!--END_SECTION:waka-->
